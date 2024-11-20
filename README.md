@@ -4,7 +4,7 @@ Purpose:
 This project enables library administrators to understand branch performance, optimize inventory management, identify popular authors and books, and establish stronger relationships with publishers. The findings aim to enhance user satisfaction and operational efficiency in library systems.
 
 # Key Objectives:
-Library Inventory Analysis:
+##Library Inventory Analysis:
 
 Determine how many books each library branch holds in total.
 Identify the types of books available in all branches along with the number of copies.
